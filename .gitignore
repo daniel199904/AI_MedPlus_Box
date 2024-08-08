@@ -1,0 +1,10 @@
+.vscode
+# node套件安裝路徑
+/node_modules
+
+# FreeFileSync
+*.ffs_gui
+*.ffs_db
+
+# 資料庫
+/DB/*
